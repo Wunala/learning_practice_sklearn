@@ -1,3 +1,2 @@
 # learning_practice_sklearn
-I will put some practices here on my road of learning Sklearn.
-I am a beginner to both python and Sklearn. I am so sure that there would be many mistakes in my code😅
+放一些在学习Sklearn的小练习，记录一下学习过程。对于Python和Sklearn都是新手，因此我很确信在代码中会有很多不完善的地方，以及还有待探索的模型参数设置。
